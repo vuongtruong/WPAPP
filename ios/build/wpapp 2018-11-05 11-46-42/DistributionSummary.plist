@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>wpapp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>88034A08D66D3AABD6603230CAB47838011AF05B</string>
+				<key>dateExpires</key>
+				<string>11/2/19</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>6Y685V629C.com.behere-beyond.iphone</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>6Y685V629C</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>6Y685V629C.com.behere-beyond.iphone</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>BEYOND.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>27155683-7227-4a7b-be80-6ab7d6e63989</string>
+				<key>name</key>
+				<string>AH-iPhone-Beyond-2018Nov02</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>6Y685V629C</string>
+				<key>name</key>
+				<string>Joseph Kalatsky</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

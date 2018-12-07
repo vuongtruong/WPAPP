@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c4d3aa824c5c88d7e6881c209b3d8c60eae753e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.facebook.stetho/stetho-okhttp3/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="91d213f056515b6c839364717ae0f34799ed25b7">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.stetho-stetho-okhttp3-1.5.0_0da224cde6c2114afba2651d3e081583fce2e873.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_510d5ad4b51b78b33c763a5a979835d0461a8006.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_09550e5235746fa69d4f55c78d16d5824a60bdc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_ea82f0b33a6ec5655e8735d68773404bd778b7fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_6b0acdf10e139248b94ec343cc6c63e51ca0cfea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_1bcf6639cf77dbcf99ab2bd70f7b50936f9ad3e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_cae69c79e768da5d1b56d53fadb8c3c06e396d48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_879199246c5ae42ae6721dea54db94b6f605cdfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_34cd0f824d54b8b82fcff44ad3f2565531f2c00c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_2ce583b84e09ef57a0391fd97d284ad1397f37d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_347fa0a02e5995d7da3d5aa3234971cf91c63b3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/wpapp/react-native-share/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="480752b2d783c916d4e12e4c208c113b30ab5c38">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/wpapp-react-native-share-unspecified_93feac18a2c99ffee950307b8ca853c280e9530e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_b567f929555cd3876de862e5537f96d946909e7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_55934dee53f2dff50f8147d9b114bffe9a851bd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_e1ba406576239297d8ecc40092d156046b30cd53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_92433faca2c9c4f337d873a089991134ced7f9f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/wpapp/react-native-youtube/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a5ad4ab2390fe32da8f0d78a21f4f9102dd09f2">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/wpapp-react-native-youtube-unspecified_26bf8de21cdb12a0dbefb144d94ec7625ab92dec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_0fd91848e0b041158202707658d35c2d6c8bcda5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_1943cc4f323846a93f6b309f1dc9a0a56ff3d014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2_436f9e15c6351167b83582d934a8dcf3a352c01c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_ac605f8e0e46a072225ef2e9f77dad3ea2e24c73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_85a5c4c812b3baf4dcfda596c603a090a5701108.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_61c0c57537c649cbd0c103cf30611864f1e07bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_27134b73af60b207c3edbf2d4a781e7121039cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_d042ef8e6145e5155871f4466cc537ed0752db29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_af61d946be46f86f098736b924ead84ae82cdc11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_92156bf04cb55ac20fab71545f2d5051c98a438c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_da4012b1db9f19be0e96e161f4011b859d04e321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_2071c5fee8b3d1820ff257d2da7f287a731884e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/wpapp/react-native-youtube/unspecified/jars/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="047ea01946c65f933601eaad6ee814816c275c6c">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_5c9b06d84a0804a0b8548c1106a28e19f688979e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.facebook.stetho/stetho/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fab3c7faab3bc30df0fbf2cbebfcb21753c95260">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.stetho-stetho-1.5.0_b4d181ac9e943cfc88938c392513d174e9e2612b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/wpapp/react-native-splash-screen/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b848c39f7ca98712454130faf578d64f375ebbe2">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/wpapp-react-native-splash-screen-unspecified_ca251215cf87ce24edb7c302a72741a45c30a800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c24a0af706d1be655b7ec88fda04bfe84453f823.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b70c972fae063db55e3c355e04b942b028584eb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_ded1765d320118766e558884de9308ee8210c50c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_d73a2468676ecc24cae50288d49306fac1572fa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_1a6e3d48442bd3dafef6d51de03b4b7149b4de49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c1d2df037d80140a8089a03677ec3376cbfd5f24.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/cpu195/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f9be7145e0054f1988f509e42d9b3517/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

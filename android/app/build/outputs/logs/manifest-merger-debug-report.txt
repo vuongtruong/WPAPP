@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:25:9-33:20
+	android:grantUriPermissions
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:28:13-47
+	android:authorities
+		INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:27:13-60
+	android:exported
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:26:13-67
+manifest
+ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:1:1-36:12
+MERGED from [:react-native-toast-native] /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/node_modules/react-native-toast-native/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-youtube] /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/node_modules/react-native-youtube/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-share] /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/da7f363730e0b78b46ec0caf952800b4/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f9be7145e0054f1988f509e42d9b3517/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/2e610f76fff4c8bbf68934517324d2a3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/e525f3c8d6226bd5db19cafa1067a979/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/1c4d97ef01c3fe873008d794caac42bb/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/0f63be5485d15e47b552cfe84e5e2881/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/7bb4d9c99854594402eea1b1a11461da/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/f13883ebde07a4f473a2b7fa5675d250/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3bb294c4b20b05edc12ea3829d1ea75d/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/e8ba1435a89ebeaf0f957492edd692f8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/ea5340d91fe20dc4c77c8aad00bf81a6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/7ee4cc290b507fe84c84a6b0b5ff275d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/80b0c9a5bf86369b582a6c218c850b6c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/053dc20b1807d16aa0b4cadffa26e880/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8bd5c228e69acc95f3a4359edd4c3ddf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/64e7d470574f7c83f572b2eabd41b68b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/009f2b755ac946ecfc1f1a538ef5179a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a073c3afbd76d1179aa80243a1b29b78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0bd1fb1498bf9f4ec71ee3c2beda780c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4ca0c2b5311a3a42b26b3c5a3d4ffb95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f3299c0333e131a12897e9655f09cfdf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4dc51e2f1070608a26b39c47adccc802/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6e46b6b4b83a76d9389375b6b6c128fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/80f315b3db18187b780bbb5366f0ba56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/eaeae3eba997df58bd0d3602c52c0728/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/aac3828ac86f5c4dcaba35a133679206/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/31d3b610341d0dd7cd5f667c2354d3d7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0330f982e59f7d00243a1c926939c74c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/72d1b6aed282c29ed4319aacd23b732b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5faff7f015e0a01df6ca24ab4d7d566c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/61ac294d8435463beb0a45ca37c8c585/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/50145f59ebc6719f8122be471c6d89d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3783d1c4b2f0c2ad47ace19fdb105791/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2cf670d10f0d01bf4bde03c3a06a9c1c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3c54757fe683c13a67d3d4aaebc0c74d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/84d3c384ca0ccea2110bb22f861af1cc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/21a8867820e189244003c2665f9f0708/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/88ee2723001df72589d3caa2590a2ab0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:1:1-36:12
+	package
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:2:5-24
+		INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/da7f363730e0b78b46ec0caf952800b4/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/da7f363730e0b78b46ec0caf952800b4/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:6:22-72
+application
+ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:8:5-34:19
+MERGED from [:react-native-splash-screen] /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/da7f363730e0b78b46ec0caf952800b4/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/da7f363730e0b78b46ec0caf952800b4/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/2e610f76fff4c8bbf68934517324d2a3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/2e610f76fff4c8bbf68934517324d2a3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/e525f3c8d6226bd5db19cafa1067a979/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/e525f3c8d6226bd5db19cafa1067a979/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/f13883ebde07a4f473a2b7fa5675d250/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/f13883ebde07a4f473a2b7fa5675d250/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3bb294c4b20b05edc12ea3829d1ea75d/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3bb294c4b20b05edc12ea3829d1ea75d/AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/31d3b610341d0dd7cd5f667c2354d3d7/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/31d3b610341d0dd7cd5f667c2354d3d7/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0330f982e59f7d00243a1c926939c74c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0330f982e59f7d00243a1c926939c74c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/31d3b610341d0dd7cd5f667c2354d3d7/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:10:7-39
+	android:icon
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:9:7-38
+activity#com.wpapp.MainActivity
+ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-toast-native] /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/node_modules/react-native-toast-native/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-toast-native] /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/node_modules/react-native-toast-native/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-youtube] /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/node_modules/react-native-youtube/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-youtube] /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/node_modules/react-native-youtube/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/da7f363730e0b78b46ec0caf952800b4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/da7f363730e0b78b46ec0caf952800b4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f9be7145e0054f1988f509e42d9b3517/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f9be7145e0054f1988f509e42d9b3517/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/2e610f76fff4c8bbf68934517324d2a3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/2e610f76fff4c8bbf68934517324d2a3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/e525f3c8d6226bd5db19cafa1067a979/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/e525f3c8d6226bd5db19cafa1067a979/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/1c4d97ef01c3fe873008d794caac42bb/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/1c4d97ef01c3fe873008d794caac42bb/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/0f63be5485d15e47b552cfe84e5e2881/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/0f63be5485d15e47b552cfe84e5e2881/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/7bb4d9c99854594402eea1b1a11461da/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/7bb4d9c99854594402eea1b1a11461da/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/f13883ebde07a4f473a2b7fa5675d250/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/f13883ebde07a4f473a2b7fa5675d250/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/e8ba1435a89ebeaf0f957492edd692f8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/e8ba1435a89ebeaf0f957492edd692f8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/ea5340d91fe20dc4c77c8aad00bf81a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/ea5340d91fe20dc4c77c8aad00bf81a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/7ee4cc290b507fe84c84a6b0b5ff275d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/7ee4cc290b507fe84c84a6b0b5ff275d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/80b0c9a5bf86369b582a6c218c850b6c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/80b0c9a5bf86369b582a6c218c850b6c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/053dc20b1807d16aa0b4cadffa26e880/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/053dc20b1807d16aa0b4cadffa26e880/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8bd5c228e69acc95f3a4359edd4c3ddf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8bd5c228e69acc95f3a4359edd4c3ddf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/64e7d470574f7c83f572b2eabd41b68b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/64e7d470574f7c83f572b2eabd41b68b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/009f2b755ac946ecfc1f1a538ef5179a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/009f2b755ac946ecfc1f1a538ef5179a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a073c3afbd76d1179aa80243a1b29b78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a073c3afbd76d1179aa80243a1b29b78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0bd1fb1498bf9f4ec71ee3c2beda780c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0bd1fb1498bf9f4ec71ee3c2beda780c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4ca0c2b5311a3a42b26b3c5a3d4ffb95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4ca0c2b5311a3a42b26b3c5a3d4ffb95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f3299c0333e131a12897e9655f09cfdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f3299c0333e131a12897e9655f09cfdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4dc51e2f1070608a26b39c47adccc802/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4dc51e2f1070608a26b39c47adccc802/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6e46b6b4b83a76d9389375b6b6c128fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6e46b6b4b83a76d9389375b6b6c128fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/80f315b3db18187b780bbb5366f0ba56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/80f315b3db18187b780bbb5366f0ba56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/eaeae3eba997df58bd0d3602c52c0728/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/eaeae3eba997df58bd0d3602c52c0728/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/aac3828ac86f5c4dcaba35a133679206/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/aac3828ac86f5c4dcaba35a133679206/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/31d3b610341d0dd7cd5f667c2354d3d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/31d3b610341d0dd7cd5f667c2354d3d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0330f982e59f7d00243a1c926939c74c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0330f982e59f7d00243a1c926939c74c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/72d1b6aed282c29ed4319aacd23b732b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/72d1b6aed282c29ed4319aacd23b732b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5faff7f015e0a01df6ca24ab4d7d566c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5faff7f015e0a01df6ca24ab4d7d566c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/61ac294d8435463beb0a45ca37c8c585/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/61ac294d8435463beb0a45ca37c8c585/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/50145f59ebc6719f8122be471c6d89d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/50145f59ebc6719f8122be471c6d89d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3783d1c4b2f0c2ad47ace19fdb105791/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3783d1c4b2f0c2ad47ace19fdb105791/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2cf670d10f0d01bf4bde03c3a06a9c1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2cf670d10f0d01bf4bde03c3a06a9c1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3c54757fe683c13a67d3d4aaebc0c74d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3c54757fe683c13a67d3d4aaebc0c74d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/84d3c384ca0ccea2110bb22f861af1cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/84d3c384ca0ccea2110bb22f861af1cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/21a8867820e189244003c2665f9f0708/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/21a8867820e189244003c2665f9f0708/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/88ee2723001df72589d3caa2590a2ab0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/cpu195/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/88ee2723001df72589d3caa2590a2ab0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:30:13-32:53
+	android:resource
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:32:17-50
+	android:name
+		ADDED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:31:17-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-share] /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [:react-native-share] /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/cpu195/Documents/CTADLIBUNLIMIT/wpapp/android/app/src/main/AndroidManifest.xml:1:1-36:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
