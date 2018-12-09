@@ -10,6 +10,7 @@
 #import <React/RCTBundleURLProvider.h>
 #import <React/RCTRootView.h>
 #import "RNSplashScreen.h"
+ #import <ReactNativeNavigation/ReactNativeNavigation.h>
 
 @implementation AppDelegate
 
@@ -22,7 +23,7 @@
 #else
   jsCodeLocation = [[NSBundle mainBundle] URLForResource:@"main" withExtension:@"jsbundle"];
 #endif
-
+  [ReactNativeNavigation bootstrap:jsCodeLocation launchOptions:launchOptions];
   RCTRootView *rootView = [[RCTRootView alloc] initWithBundleURL:jsCodeLocation
                                                       moduleName:@"wpapp"
                                                initialProperties:nil
